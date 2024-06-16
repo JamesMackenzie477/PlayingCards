@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544630436 source:d:\projects\c\playingcards\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,16 @@
+﻿  PlayingCards.cpp
+d:\projects\c\playingcards\playingcards\playingcards.cpp(163): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  d:\projects\c\playingcards\playingcards\playingcards.cpp(163): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  d:\projects\c\playingcards\playingcards\playingcards.cpp(163): note: the missing variadic argument 2 is required by format string '%s'
+  d:\projects\c\playingcards\playingcards\playingcards.cpp(163): note: this argument is used as a buffer size
+d:\projects\c\playingcards\playingcards\playingcards.cpp(175): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  d:\projects\c\playingcards\playingcards\playingcards.cpp(175): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  d:\projects\c\playingcards\playingcards\playingcards.cpp(175): note: the missing variadic argument 2 is required by format string '%s'
+  d:\projects\c\playingcards\playingcards\playingcards.cpp(175): note: this argument is used as a buffer size
+d:\projects\c\playingcards\playingcards\playingcards.cpp(115): warning C4101: 'splitPos': unreferenced local variable
+  Generating code
+  1 of 15 functions ( 6.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PlayingCards.vcxproj -> D:\Projects\C\PlayingCards\x64\Release\PlayingCards.exe
